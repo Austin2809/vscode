@@ -13,5 +13,3 @@ echo When you're done, create a Pull Request from your repository to this reposi
 
 
 
-
-clear
