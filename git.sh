@@ -5,4 +5,4 @@ git checkout -b  ANameDescribingYourBranch
 
 git add .
 git commit -m "Commit message explaining your changes"
-git push
+git push --set-upstream origin ANameDescribingYourBranch
